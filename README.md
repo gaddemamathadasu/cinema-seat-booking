@@ -1,2 +1,4 @@
-# cinema-seat-booking
-A Cinema Seat Booking web application that lets users select movies, choose showtimes, pick seats from a seat map, and helps prevent double booking.
+### 🎬 Cinema Seat Booking Website
+
+**Live Demo:** https://pixel-perfect-showcase-7061.lovable.app
+
